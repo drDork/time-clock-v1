@@ -1,3 +1,19 @@
 div {
 	padding: 20px;
 }
+
+.clock-in-by-num{
+	font-family: sans-serif;
+	color: red; 
+	font-size: 2em; 
+	font-weight: 100; 
+}
+
+.displayAnswer{
+	background-color: lightgreen;
+	color: red; 
+	padding: 20px;
+	border-radius: 3px; 
+	font-size: 2em; 
+	font-family: sans-serif;
+}
